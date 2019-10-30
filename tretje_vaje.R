@@ -115,3 +115,4 @@ abline(vektor_trig)
  
 
 acf(vektor_trig$residuals)
+ 
